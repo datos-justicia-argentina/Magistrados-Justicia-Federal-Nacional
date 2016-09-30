@@ -1,0 +1,2 @@
+# jueces-fiscales-defensores-justicia-nacional-federal
+En este conjunto de datos se detalla la estructura y la nómina de jueces, fiscales y defensores de la justicia nacional y de la justicia federal de la República Argentina, estado de cobertura de cargos, estado de los concursos destinados a cubrir los cargos que se encuentran vacantes, decretos y/o resoluciones de designación y/o traslado de los magistrados y Presidente y Ministro de Justicia y Derechos Humanos en funciones al momento de la designación.
