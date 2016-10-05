@@ -3,7 +3,7 @@ En este conjunto de datos se detalla la estructura y la nómina de jueces, fisca
 
 ##Características
 
-- **Fecha de Publicación:** 01/09/2016
+- **Fecha de Publicación:** 14/09/2016
 - **Recurso:** Guía Judicial de la Justicia Nacional y de la Justicia Federal
 - **Tags o Etiquetas:** judicial, juez, fiscal, defensor, magistrado, vacante, órgano, cargo, subrogante, concurso, federal, nacional, justicia.
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios.
