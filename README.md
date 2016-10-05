@@ -18,7 +18,7 @@ En este conjunto de datos se detalla la estructura y la nómina de jueces, fisca
 
 - **Nombre:** jueces-fiscales-defensores-justicia-federal-nacional.csv
 - **Descripción:** Nómina de jueces, fiscales y defensores de la justicia nacional y de la justicia federal.
-- **Formato:** CSV
+- **Formato:** CSV delimitado por coma
 - **Rango temporal:** -
 
 ###Campos del recurso
