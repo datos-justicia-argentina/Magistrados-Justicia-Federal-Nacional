@@ -34,4 +34,4 @@ En este conjunto de datos se detalla la estructura y la nómina de jueces, fisca
 - **fecha_designacion (date):** Fecha del decreto o resolución de designación o traslado del juez, fiscal o defensror titular del cargo
 - **decreto (string):** Número del decreto de designación o traslado
 - **presidente (string):** Nombre del Presidente en ejercicio a la fecha de la designación o traslado
-- **ministro (string):** Nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación traslado
+- **ministro (string):** Nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
