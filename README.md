@@ -31,7 +31,7 @@ En este conjunto de datos se detalla la estructura y la nómina de jueces, fisca
 - **vacante_licencia (string):** Describe si el cargo está vacante o el juez, fiscal o defensor titular está de licencia
 - **numero_concurso (string):** Número de concurso asignado a los cargos que se encuentran vacantes
 - **ambito_concurso (int):** Ámbito en el que se encuentra tramitando el concurso
-- **fecha_designacion (date):** Fecha del decreto y/o resolución de designación y/o traslado del juez, fiscal o defensror titular del cargo
-- **decreto (string):** Número del decreto de designación
-- **presidente (string):** Nombre del Presidente en ejercicio a la fecha de la designación
-- **ministro (string):** Nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación
+- **fecha_designacion (date):** Fecha del decreto o resolución de designación o traslado del juez, fiscal o defensror titular del cargo
+- **decreto (string):** Número del decreto de designación o traslado
+- **presidente (string):** Nombre del Presidente en ejercicio a la fecha de la designación o traslado
+- **ministro (string):** Nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación traslado
