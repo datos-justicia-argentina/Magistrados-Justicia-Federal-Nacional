@@ -53,7 +53,7 @@ Recursos disponibles
 
 - **ambito_concurso (int):** Ámbito en el que se encuentra tramitando el concurso
 
-- **fecha_designacion (date):** Fecha de designación o traslado del juez, fiscal o defensror titular del cargo
+- **fecha_designacion (date):** Fecha de designación o traslado del juez, fiscal o defensor titular del cargo
 
 - **decreto (string):** Número del decreto de designación o traslado
 
@@ -83,7 +83,7 @@ Recursos disponibles
 
 - **dni_magistrado (int):** número de dni del juez, fiscal o defensor
 
-- **fecha_designacion (date):** Fecha de designación del juez, fiscal o defensror
+- **fecha_designacion (date):** Fecha de designación del juez, fiscal o defensor
 
 - **decreto_designacion (string):** Número del decreto de designación del juez, fiscal o defensor
 
