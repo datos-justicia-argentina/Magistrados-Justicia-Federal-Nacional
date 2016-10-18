@@ -85,9 +85,9 @@ Recursos disponibles
 
 - **fecha_designacion (date):** Fecha de designación del juez, fiscal o defensror
 
-- **decreto_designacion (string):** Número del decreto de designación del juez, fiscal o defensror
+- **decreto_designacion (string):** Número del decreto de designación del juez, fiscal o defensor
 
-- **fecha_decreto (date):** Fecha del decreto o resolución de designación del juez, fiscal o defensror
+- **fecha_decreto (date):** Fecha del decreto o resolución de designación del juez, fiscal o defensor
 
 - **concurso (string):** Número y ámbito del concurso de designación
 
@@ -117,11 +117,11 @@ Recursos disponibles
 
 - **dni_magistrado (int):** número de dni del juez, fiscal o defensor
 
-- **fecha_renuncia (date):** Fecha de aceptación de la renuncia del juez, fiscal o defensror
+- **fecha_renuncia (date):** Fecha de aceptación de la renuncia del juez, fiscal o defensor
 
-- **decreto_renuncia (string):** Número del decreto de aceptación de la renuncia del juez, fiscal o defensror
+- **decreto_renuncia (string):** Número del decreto de aceptación de la renuncia del juez, fiscal o defensor
 
-- **fecha_decreto (date):** Fecha del decreto o resolución de aceptación de la renuncia del juez, fiscal o defensror
+- **fecha_decreto (date):** Fecha del decreto o resolución de aceptación de la renuncia del juez, fiscal o defensor
 
 - **motivo (string):** Motivo que desencadenó la renuncia
 
