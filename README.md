@@ -8,8 +8,6 @@ Características
 
 - **Fecha de Publicación:** 14/09/2016
 
-- **Recurso:** Magistrados de la Justicia Federal y de la Justicia Nacional
-
 - **Tags o Etiquetas:** judicial, juez, fiscal, defensor, magistrado, vacante, órgano, cargo, subrogante, concurso, federal, nacional, justicia
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios
@@ -120,8 +118,6 @@ Recursos disponibles
 - **decreto_renuncia (string):** Número del decreto de aceptación de la renuncia del juez, fiscal o defensor
 
 - **fecha_decreto (date):** Fecha del decreto o resolución de aceptación de la renuncia del juez, fiscal o defensor
-
-- **motivo (string):** Motivo que desencadenó la renuncia
 
 - **presidente (string):** Nombre del Presidente en ejercicio a la fecha de la renuncia
 
