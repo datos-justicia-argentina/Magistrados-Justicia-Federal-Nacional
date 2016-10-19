@@ -1,14 +1,14 @@
 Magistrados de la Justicia Federal y de la Justicia Nacional
 ==============================================================================
 
-En este conjunto de datos se detalla la estructura y la nómina de jueces, fiscales y defensores de la justicia nacional y de la justicia federal de la República Argentina, estado de cobertura de cargos, estado de los concursos destinados a cubrir los cargos que se encuentran vacantes, decretos y/o resoluciones de designación y/o traslado de los jueces, fiscales o defensores y Presidente y Ministro de Justicia y Derechos Humanos en funciones al momento de la designación.
+En este conjunto de datos se detalla la estructura y la nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina, estado de cobertura de cargos, estado de los concursos destinados a cubrir los cargos que se encuentran vacantes, decretos y/o resoluciones de designación y/o traslado de los jueces, fiscales o defensores y Presidente y Ministro de Justicia y Derechos Humanos en funciones al momento de la designación.
 
 Características
 ---------------
 
 - **Fecha de Publicación:** 14/09/2016
 
-- **Recurso:** Guía Judicial de la Justicia Nacional y de la Justicia Federal
+- **Recurso:** Magistrados de la Justicia Federal y de la Justicia Nacional
 
 - **Tags o Etiquetas:** judicial, juez, fiscal, defensor, magistrado, vacante, órgano, cargo, subrogante, concurso, federal, nacional, justicia
 
@@ -25,11 +25,11 @@ Características
 Recursos disponibles
 --------------------
 
-### Magistrados de la Justicia Nacional y de la Justicia Federal
+### Magistrados de la Justicia Federal y de la Justicia Nacional
 
 - **Nombre:** magistrados-justicia-federal-nacional.csv
 
-- **Descripción:** Nómina de jueces, fiscales y defensores de la justicia nacional y de la justicia federal
+- **Descripción:** Nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
 - **Formato:** CSV delimitado por coma
 
@@ -45,9 +45,11 @@ Recursos disponibles
 
 - **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
 
-- **cobertura (string):** Tipo de cobertura del cargo (titular, subrogante, presidente de cámara, convocado/a)
+- **cobertura (string):** Tipo de cobertura del cargo (titular, subrogante, convocado/a)
 
-- **vacante_licencia (string):** Describe si el cargo está vacante o el juez, fiscal o defensor titular está de licencia
+- **vacante (string):** Describe si el cargo está vacante
+
+- **licencia (string):** Describe si el juez, fiscal o defensor titular está de licencia
 
 - **numero_concurso (string):** Número de concurso asignado a los cargos que se encuentran vacantes
 
@@ -61,11 +63,11 @@ Recursos disponibles
 
 - **ministro (string):** Nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
 
-### Designaciones de magistrados de la justicia Federal y Nacional
+### Designacion de magistrados de la Justicia Federal y de la Justicia Nacional
 
-- **Nombre:** magistrados-justicia-federal-nacional-designaciones.csv
+- **Nombre:** magistrados-justicia-federal-nacional-designacion.csv
 
-- **Descripción:** Información de la designación de jueces, fiscales y defensores de la justicia nacional y de la justicia federal
+- **Descripción:** Información de la designación de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
 - **Formato:** CSV delimitado por coma
 
@@ -81,25 +83,21 @@ Recursos disponibles
 
 - **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
 
-- **dni_magistrado (int):** número de dni del juez, fiscal o defensor
-
 - **fecha_designacion (date):** Fecha de designación del juez, fiscal o defensor
 
 - **decreto_designacion (string):** Número del decreto de designación del juez, fiscal o defensor
 
 - **fecha_decreto (date):** Fecha del decreto o resolución de designación del juez, fiscal o defensor
 
-- **concurso (string):** Número y ámbito del concurso de designación
-
 - **presidente (string):** Nombre del Presidente en ejercicio a la fecha de la designación
 
 - **ministro (string):** Nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación
 
-### Renuncia de magistrados de la justicia Federal y Nacional
+### Renuncia de magistrados de la Justicia Federal y de la Justicia Nacional
 
-- **Nombre:** magistrados-justicia-federal-nacional-renuncias.csv
+- **Nombre:** magistrados-justicia-federal-nacional-renuncia.csv
 
-- **Descripción:** Información de la renuncia de jueces, fiscales y defensores de la justicia nacional y de la justicia federal
+- **Descripción:** Información de la renuncia de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
 - **Formato:** CSV delimitado por coma
 
