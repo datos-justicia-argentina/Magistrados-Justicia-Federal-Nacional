@@ -94,6 +94,8 @@ Recursos disponibles
 
 - **nombre_organo (string):** Nombre del órgano
 
+- **tipo_cargo (string):** Tipo de cargo
+
 - **detalle_cargo (string):** Nombre del cargo del juez, fiscal o defensor
 
 - **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
@@ -127,6 +129,9 @@ Recursos disponibles
 - **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
 - **nombre_organo (string):** Nombre del órgano
+
+- **tipo_cargo (string):** Tipo de cargo
+
 - **detalle_cargo (string):** Nombre del cargo del juez, fiscal o defensor
 
 - **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
