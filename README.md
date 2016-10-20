@@ -43,6 +43,8 @@ Recursos disponibles
 
 - **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
+- **organo_habilitado (string):** Órgano habilitado
+
 - **nombre_organo (string):** Nombre del órgano
 
 - **tipo_magistrado (string):** Tipo de magistrado. Toma los valores Juez/Fiscal/Defensor
