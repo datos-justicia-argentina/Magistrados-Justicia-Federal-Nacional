@@ -37,17 +37,27 @@ Recursos disponibles
 
 - **orden (int):** Número correlativo
 
+- **justicia_federal_o_nacional (int):** Indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
+
 - **alzada (string):** Descripción de la Cámara de la que depende el órgano
+
+- **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
 - **nombre_organo (string):** Nombre del órgano
 
+- **tipo_magistrado (string):** Tipo de magistrado. Toma los valores Juez/Fiscal/Defensor
+
 - **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
 
-- **cobertura (string):** Tipo de cobertura del cargo (titular, subrogante, convocado/a)
+- **cobertura (string):** Tipo de cobertura del cargo. Toma los valores Titular/Subrogante/Sin subrogante designado/No corresponde (en el caso de los cargoss no habilitados)
 
-- **vacante (string):** Describe si el cargo está vacante
+- **presidente_camara (string):** Describe si el magistrado es presidente de cámara. Toma los valores Sí/No
 
-- **licencia (string):** Describe si el juez, fiscal o defensor titular está de licencia
+- **vacante (string):** Describe si el cargo está vacante. Toma los valores Sí/No
+
+- **licencia (string):** Describe si el juez, fiscal o defensor titular está de licencia. Toma los valores Sí/No
+
+- **cargo_en_concurso (string):** Describe si el cargo está o no en concruso. Toma los valores Sí/No
 
 - **numero_concurso (string):** Número de concurso asignado a los cargos que se encuentran vacantes
 
@@ -61,6 +71,7 @@ Recursos disponibles
 
 - **ministro (string):** Nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
 
+
 ### Designacion de magistrados de la Justicia Federal y de la Justicia Nacional
 
 - **Nombre:** magistrados-justicia-federal-nacional-designacion.csv
@@ -73,7 +84,11 @@ Recursos disponibles
 
 ### Campos del recurso
 
+- **justicia_federal_o_nacional (int):** Indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
+
 - **alzada (string):** Descripción de la Cámara de la que depende el órgano
+
+- **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
 - **nombre_organo (string):** Nombre del órgano
 
@@ -103,10 +118,13 @@ Recursos disponibles
 
 ### Campos del recurso
 
+- **justicia_federal_o_nacional (int):** Indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
+
 - **alzada (string):** Descripción de la Cámara de la que depende el órgano
 
-- **nombre_organo (string):** Nombre del órgano
+- **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
+- **nombre_organo (string):** Nombre del órgano
 - **detalle_cargo (string):** Nombre del cargo del juez, fiscal o defensor
 
 - **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
