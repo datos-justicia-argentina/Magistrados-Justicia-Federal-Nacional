@@ -72,7 +72,7 @@ Recursos disponibles
 - **ministro (string):** Nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
 
 
-### Designacion de magistrados de la Justicia Federal y de la Justicia Nacional
+### Designación de magistrados de la Justicia Federal y de la Justicia Nacional
 
 - **Nombre:** magistrados-justicia-federal-nacional-designacion.csv
 
