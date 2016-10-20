@@ -63,6 +63,8 @@ Recursos disponibles
 
 - **ambito_concurso (int):** Ámbito en el que se encuentra tramitando el concurso
 
+- **calidad_subrogante (string):** Describe la calidad de subrogante. Toma los valores Convocado (si es un juez jubilado)/ Juez/a (es juez/a en otro órgano) / Fiscal (es fiscal en otro órgano) / Defensor/a (es defensor/a en otro órgano) / Sin especificación (es subrogante pero no se especifica su calidad de surogancia)
+
 - **fecha_designacion (date):** Fecha de designación o traslado del juez, fiscal o defensor titular del cargo
 
 - **decreto (string):** Número del decreto de designación o traslado
