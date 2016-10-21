@@ -39,7 +39,7 @@ Recursos disponibles
 
 - **justicia_federal_o_nacional (int):** Indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
 
-- **alzada (string):** Descripción de la Cámara de la que depende el órgano
+- **camara (string):** Cámara de la que depende el órgano
 
 - **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
@@ -63,7 +63,7 @@ Recursos disponibles
 
 - **licencia (string):** Describe si el juez, fiscal o defensor titular está de licencia. Toma los valores Sí/No
 
-- **cargo_en_concurso (string):** Describe si el cargo está o no en concruso. Toma los valores Sí/No
+- **concurso_en_tramite (string):** Describe si el cargo está o no en concruso para la cobertura del cargo. Toma los valores Sí/No
 
 - **numero_concurso (string):** Número de concurso asignado a los cargos que se encuentran vacantes
 
