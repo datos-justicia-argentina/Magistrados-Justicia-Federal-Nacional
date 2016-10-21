@@ -43,13 +43,17 @@ Recursos disponibles
 
 - **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
-- **organo_habilitado (string):** Órgano habilitado
+- **organo_habilitado (string):** Habilitación del órgano. Toma los valores Sí/No
+
+- **tipo_magistrado (string):** Tipo de magistrado. Toma los valores Juez, Fiscal o Defensor
 
 - **nombre_organo (string):** Nombre del órgano
 
 - **tipo_magistrado (string):** Tipo de magistrado. Toma los valores Juez/Fiscal/Defensor
 
 - **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
+
+- **genero_magistrado (string): ** Género del magistrado
 
 - **cobertura (string):** Tipo de cobertura del cargo. Toma los valores Titular/Subrogante/Sin subrogante designado/No corresponde (en el caso de los cargoss no habilitados)
 
@@ -67,9 +71,11 @@ Recursos disponibles
 
 - **calidad_subrogante (string):** Describe la calidad de subrogante. Toma los valores Convocado (si es un juez jubilado)/ Juez/a (es juez/a en otro órgano) / Fiscal (es fiscal en otro órgano) / Defensor/a (es defensor/a en otro órgano) / Sin especificación (es subrogante pero no se especifica su calidad de surogancia)
 
-- **fecha_designacion (date):** Fecha de designación o traslado del juez, fiscal o defensor titular del cargo
+- **fecha_movimiento (date):** Fecha de designación o traslado del juez, fiscal o defensor titular del cargo
 
-- **decreto (string):** Número del decreto de designación o traslado
+- **norma_movimiento (string):** Número del decreto o resolución de designación o traslado
+
+- **tipo_movimiento (string):** Toma los valores Designación o traslado
 
 - **presidente (string):** Nombre del Presidente en ejercicio a la fecha de la designación o traslado
 
@@ -104,9 +110,9 @@ Recursos disponibles
 
 - **fecha_designacion (date):** Fecha de designación del juez, fiscal o defensor
 
-- **decreto_designacion (string):** Número del decreto de designación del juez, fiscal o defensor
+- **norma_designacion (string):** Número del decreto o resolución de designación del juez, fiscal o defensor
 
-- **fecha_decreto (date):** Fecha del decreto o resolución de designación del juez, fiscal o defensor
+- **fecha_norma (date):** Fecha del decreto o resolución de designación del juez, fiscal o defensor
 
 - **presidente (string):** Nombre del Presidente en ejercicio a la fecha de la designación
 
@@ -142,9 +148,9 @@ Recursos disponibles
 
 - **fecha_renuncia (date):** Fecha de aceptación de la renuncia del juez, fiscal o defensor
 
-- **decreto_renuncia (string):** Número del decreto de aceptación de la renuncia del juez, fiscal o defensor
+- **norma_renuncia (string):** Número del decreto o resolución de aceptación de la renuncia del juez, fiscal o defensor
 
-- **fecha_decreto (date):** Fecha del decreto o resolución de aceptación de la renuncia del juez, fiscal o defensor
+- **fecha_norma (date):** Fecha del decreto o resolución de aceptación de la renuncia del juez, fiscal o defensor
 
 - **presidente (string):** Nombre del Presidente en ejercicio a la fecha de la renuncia
 
