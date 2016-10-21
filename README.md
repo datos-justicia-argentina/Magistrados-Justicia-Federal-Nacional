@@ -96,7 +96,7 @@ Recursos disponibles
 
 - **justicia_federal_o_nacional (int):** Indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
 
-- **alzada (string):** Descripción de la Cámara de la que depende el órgano
+- **camara (string):** Cámara de la que depende el órgano
 
 - **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
@@ -132,7 +132,7 @@ Recursos disponibles
 
 - **justicia_federal_o_nacional (int):** Indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
 
-- **alzada (string):** Descripción de la Cámara de la que depende el órgano
+- **camara (string):** Cámara de la que depende el órgano
 
 - **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
