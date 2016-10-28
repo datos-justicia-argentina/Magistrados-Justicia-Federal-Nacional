@@ -43,17 +43,15 @@ Recursos disponibles
 
 - **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
+- **nombre_organo (string):** Nombre del órgano
+
 - **organo_habilitado (string):** Habilitación del órgano. Toma los valores Sí/No
 
 - **tipo_magistrado (string):** Tipo de magistrado. Toma los valores Juez, Fiscal o Defensor
 
-- **nombre_organo (string):** Nombre del órgano
-
-- **tipo_magistrado (string):** Tipo de magistrado. Toma los valores Juez/Fiscal/Defensor
-
 - **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
 
-- **genero_magistrado (string): ** Género del magistrado
+- **genero (string): ** Género del magistrado
 
 - **cobertura (string):** Tipo de cobertura del cargo. Toma los valores Titular/Subrogante/Sin subrogante designado/No corresponde (en el caso de los cargoss no habilitados)
 
