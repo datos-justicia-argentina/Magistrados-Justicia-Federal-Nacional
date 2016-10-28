@@ -142,8 +142,6 @@ Recursos disponibles
 
 - **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
 
-- **dni_magistrado (int):** número de dni del juez, fiscal o defensor
-
 - **fecha_renuncia (date):** Fecha de aceptación de la renuncia del juez, fiscal o defensor
 
 - **norma_renuncia (string):** Número del decreto o resolución de aceptación de la renuncia del juez, fiscal o defensor
