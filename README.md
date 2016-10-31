@@ -3,7 +3,7 @@ Magistrados de la Justicia Federal y de la Justicia Nacional
 
 En este conjunto de datos se detalla la estructura y la nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina, estado de cobertura de cargos, estado de los concursos destinados a cubrir los cargos que se encuentran vacantes, decretos y/o resoluciones de designación y/o traslado de los jueces, fiscales o defensores y Presidente y Ministro de Justicia y Derechos Humanos en funciones al momento de la designación.
 
-Lo detallado es el resultado del trabajo de la Oficina Decretos, dependiente de la Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios, la que tiene entre sus funciones llevar a cabo los procedimientos de preselección de magistrados regulados por los Decretos Nº 222/03 y Nº 588/03. Asimismo, interviene en el trámite de aceptación de renuncia de magistrados y traslado de jueces conforme a lo previsto en la Constitución Nacional y leyes complementarias. 
+Lo detallado es el resultado del trabajo de la Oficina Decretos, dependiente de la Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios, la que tiene entre sus funciones llevar a cabo los procedimientos de preselección de magistrados regulados por los Decretos Nº 222/03 y Nº 588/03. Asimismo, interviene en el trámite de aceptación de renuncia de magistrados y traslado de jueces conforme a lo previsto en la Constitución Nacional y reglamentación complementaria. 
 
 La actualización de la información relativa a subrogancias, vacancias, estado de tramitación de los concursos en el ámbito del Consejo de la Magistratura y los Ministerios Públicos, se realiza a través de un constante relevamiento telefónico con soporte en las páginas oficiales de los organismos mencionados. 
 
@@ -58,7 +58,7 @@ Recursos disponibles
 
 - **genero (string):** Género del magistrado
 
-- **cobertura (string):** Tipo de cobertura del cargo. Toma los valores Titular/Subrogante/Sin subrogante designado/No corresponde (en el caso de los cargoss no habilitados)
+- **cobertura (string):** Tipo de cobertura del cargo. Toma los valores Titular/Subrogante/Sin subrogante designado/No corresponde (en el caso de los cargos no habilitados)
 
 - **presidente_camara (string):** Describe si el magistrado es presidente de cámara. Toma los valores Sí/No
 
@@ -66,7 +66,7 @@ Recursos disponibles
 
 - **licencia (string):** Describe si el juez, fiscal o defensor titular está de licencia. Toma los valores Sí/No
 
-- **concurso_en_tramite (string):** Describe si el cargo está o no en concruso para la cobertura del cargo. Toma los valores Sí/No
+- **concurso_en_tramite (string):** Describe si el cargo tiene o no concurso asignado para la cobertura de la vacante
 
 - **numero_concurso (string):** Número de concurso asignado a los cargos que se encuentran vacantes
 
@@ -89,7 +89,7 @@ Recursos disponibles
 
 - **Nombre:** magistrados-justicia-federal-nacional-designacion.csv
 
-- **Descripción:** Información de la designación de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
+- **Descripción:** Información de las designaciones de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
 - **Formato:** CSV delimitado por coma
 
@@ -125,7 +125,7 @@ Recursos disponibles
 
 - **Nombre:** magistrados-justicia-federal-nacional-renuncia.csv
 
-- **Descripción:** Información de la renuncia de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
+- **Descripción:** Información de las renuncias de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional
 
 - **Formato:** CSV delimitado por coma
 
