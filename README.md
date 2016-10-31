@@ -36,7 +36,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por coma
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Fecha de actualización de los datos"
+- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -93,7 +93,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por coma
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Fecha de actualización de los datos"
+- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -129,7 +129,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por coma
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Fecha de actualización de los datos"
+- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
