@@ -52,7 +52,7 @@ Recursos disponibles
 
 - **organo_habilitado (string):** Habilitación del órgano. Toma los valores Sí/No
 
-- **tipo_magistrado (string):** Tipo de magistrado. Toma los valores Juez, Fiscal o Defensor
+- **tipo_cargo (string):** Tipo de cargo. Toma los valores juez, fiscal o defensor
 
 - **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
 
@@ -72,7 +72,7 @@ Recursos disponibles
 
 - **ambito_concurso (int):** Ámbito en el que se encuentra tramitando el concurso
 
-- **calidad_subrogante (string):** Describe la calidad de subrogante. Toma los valores Convocado (si es un juez jubilado)/ Juez/a (es juez/a en otro órgano) / Fiscal (es fiscal en otro órgano) / Defensor/a (es defensor/a en otro órgano) / Sin especificación (es subrogante pero no se especifica su calidad de surogancia)
+- **calidad_subrogante (string):** Describe la calidad de subrogante. Toma los valores Convocado (si es un juez jubilado)/ juez/a (es juez/a en otro órgano) / fiscal (es fiscal en otro órgano) / defensor/a (es defensor/a en otro órgano) / Sin especificación (es subrogante pero no se especifica su calidad de surogancia)
 
 - **fecha_movimiento (date):** Fecha de designación o traslado del juez, fiscal o defensor titular del cargo
 
@@ -105,7 +105,7 @@ Recursos disponibles
 
 - **nombre_organo (string):** Nombre del órgano
 
-- **tipo_cargo (string):** Tipo de cargo
+- **tipo_cargo (string):** Tipo de cargo. Toma los valores juez, fiscal o defensor
 
 - **detalle_cargo (string):** Nombre del cargo del juez, fiscal o defensor
 
@@ -141,7 +141,7 @@ Recursos disponibles
 
 - **nombre_organo (string):** Nombre del órgano
 
-- **tipo_cargo (string):** Tipo de cargo
+- **tipo_cargo (string):** Tipo de cargo. Toma los valores juez, fiscal o defensor
 
 - **detalle_cargo (string):** Nombre del cargo del juez, fiscal o defensor
 
