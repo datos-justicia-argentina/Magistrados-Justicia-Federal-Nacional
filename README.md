@@ -42,7 +42,7 @@ Recursos disponibles
 
 - **orden (int):** Número correlativo
 
-- **justicia_federal_o_nacional (int):** Indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
+- **justicia_federal_o_nacional (string):** Indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
 
 - **camara (string):** Cámara de la que depende el órgano
 
