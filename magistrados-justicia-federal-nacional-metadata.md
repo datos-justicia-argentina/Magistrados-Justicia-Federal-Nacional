@@ -11,7 +11,7 @@ La actualización de la información relativa a subrogancias, vacancias, estado 
 Características
 ---------------
 
-- **Fecha de Publicación:** 14/09/2016
+- **Fecha de Primera Publicación:** 14/09/2016
 
 - **Tags o Etiquetas:** judicial, juez, fiscal, defensor, magistrado, vacante, órgano, cargo, subrogante, concurso, federal, nacional, justicia
 
