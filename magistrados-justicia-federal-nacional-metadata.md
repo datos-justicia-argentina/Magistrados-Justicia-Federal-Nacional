@@ -36,7 +36,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por coma
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** listado actualizado a la fecha consignada como "Estado al AAAA/MM/DD"
 
 ### Campos del recurso
 
