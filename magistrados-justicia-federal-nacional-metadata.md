@@ -28,7 +28,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Magistrados de la Justicia Federal y de la Justicia Nacional - estado al dd-mm-aaaa
+### Magistrados de la Justicia Federal y de la Justicia Nacional - AAAA-MM-DD
 
 - **Nombre:** magistrados-justicia-federal-nacional - AAAA-MM-DD.csv
 
