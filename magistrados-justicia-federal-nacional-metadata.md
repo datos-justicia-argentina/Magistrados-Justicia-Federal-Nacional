@@ -32,54 +32,54 @@ Recursos disponibles
 
 - **Nombre:** magistrados-justicia-federal-nacional-AAAA-MM-DD.csv
 
-- **Descripción:** Nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional.  No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación
+- **Descripción:** nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional.  No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
-- **orden (int):** Número correlativo
+- **orden (int):** número correlativo
 
-- **justicia_federal_o_nacional (string):** Indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
+- **justicia_federal_o_nacional (string):** indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
 
-- **camara (string):** Cámara de la que depende el órgano
+- **camara (string):** cámara de la que depende el órgano
 
-- **tipo_organo (string):** Tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
+- **tipo_organo (string):** tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
-- **nombre_organo (string):** Nombre del órgano
+- **nombre_organo (string):** nombre del órgano
 
-- **organo_habilitado (string):** Habilitación del órgano. Toma los valores Sí/No
+- **organo_habilitado (string):** habilitación del órgano. Toma los valores Sí/No
 
-- **tipo_cargo (string):** Tipo de cargo. Toma los valores juez, fiscal o defensor
+- **tipo_cargo (string):** tipo de cargo. Toma los valores juez, fiscal o defensor
 
-- **nombre_magistrado (string):** Nombre del juez, fiscal o defensor
+- **nombre_magistrado (string):** nombre del juez, fiscal o defensor
 
-- **genero (string):** Género del magistrado
+- **genero (string):** género del magistrado
 
-- **cobertura (string):** Tipo de cobertura del cargo. Toma los valores Titular/Subrogante/Sin subrogante designado/No corresponde (en el caso de los cargos no habilitados)
+- **cobertura (string):** tipo de cobertura del cargo. Toma los valores Titular/Subrogante/Sin subrogante designado/No corresponde (en el caso de los cargos no habilitados)
 
-- **presidente_camara (string):** Describe si el magistrado es presidente de cámara. Toma los valores Sí/No
+- **presidente_camara (string):** describe si el magistrado es presidente de cámara. Toma los valores Sí/No
 
-- **vacante (string):** Describe si el cargo está vacante. Toma los valores Sí/No
+- **vacante (string):** describe si el cargo está vacante. Toma los valores Sí/No
 
-- **licencia (string):** Describe si el juez, fiscal o defensor titular está de licencia. Toma los valores Sí/No
+- **licencia (string):** describe si el juez, fiscal o defensor titular está de licencia. Toma los valores Sí/No
 
-- **concurso_en_tramite (string):** Describe si el cargo tiene o no concurso asignado para la cobertura de la vacante
+- **concurso_en_tramite (string):** describe si el cargo tiene o no concurso asignado para la cobertura de la vacante
 
-- **numero_concurso (string):** Número de concurso asignado a los cargos que se encuentran vacantes
+- **numero_concurso (string):** número de concurso asignado a los cargos que se encuentran vacantes
 
-- **ambito_concurso (int):** Ámbito en el que se encuentra tramitando el concurso
+- **ambito_concurso (int):** ámbito en el que se encuentra tramitando el concurso
 
-- **calidad_subrogante (string):** Describe la calidad de subrogante. Toma los valores Convocado (si es un juez jubilado)/ juez/a (es juez/a en otro órgano) / fiscal (es fiscal en otro órgano) / defensor/a (es defensor/a en otro órgano) / Sin especificación (es subrogante pero no se especifica su calidad de surogancia)
+- **calidad_subrogante (string):** describe la calidad de subrogante. Toma los valores Convocado (si es un juez jubilado)/ juez/a (es juez/a en otro órgano) / fiscal (es fiscal en otro órgano) / defensor/a (es defensor/a en otro órgano) / Sin especificación (es subrogante pero no se especifica su calidad de surogancia)
 
-- **fecha_movimiento (date):** Fecha de designación o traslado del juez, fiscal o defensor titular del cargo
+- **fecha_movimiento (date):** fecha de designación o traslado del juez, fiscal o defensor titular del cargo
 
-- **norma_movimiento (string):** Número del decreto o resolución de designación o traslado
+- **norma_movimiento (string):** número del decreto o resolución de designación o traslado
 
-- **tipo_movimiento (string):** Toma los valores Designación o traslado
+- **tipo_movimiento (string):** toma los valores Designación o traslado
 
-- **presidente (string):** Nombre del Presidente en ejercicio a la fecha de la designación o traslado
+- **presidente (string):** nombre del Presidente en ejercicio a la fecha de la designación o traslado
 
-- **ministro (string):** Nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
+- **ministro (string):** nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
