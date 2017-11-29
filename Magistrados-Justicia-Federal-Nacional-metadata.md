@@ -40,46 +40,46 @@ Recursos disponibles
 
 ### Campos del recurso
 
-- **orden (int):** número correlativo
+- **orden (int):** número correlativo que permite ordenar los órganos por tipo de justicia, cámaras, salas, juzgados, tribunales y ministerio público
 
 - **justicia_federal_o_nacional (string):** indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
 
 - **camara (string):** cámara de la que depende el órgano
 
-- **tipo_organo (string):** tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
+- **organo_tipo (string):** tipo órgano. Toma los valores Cámara/Tribunal/Juzgado/Fiscalía/Defensoría
 
-- **nombre_organo (string):** nombre del órgano
+- **organo_nombre (string):** nombre del órgano
 
 - **organo_habilitado (string):** habilitación del órgano. Toma los valores Sí/No
 
-- **tipo_cargo (string):** tipo de cargo. Toma los valores juez, fiscal o defensor
+- **cargo_tipo (string):** tipo de cargo. Toma los valores juez, fiscal o defensor
 
-- **nombre_magistrado (string):** nombre del juez, fiscal o defensor
+- **magistrado_nombre (string):** nombre del juez, fiscal o defensor
 
-- **genero (string):** género del magistrado
+- **magistrado_genero (string):** género del magistrado
 
-- **cobertura (string):** tipo de cobertura del cargo. Toma los valores Titular/Subrogante/Sin subrogante designado/No corresponde (en el caso de los cargos no habilitados)
+- **cargo_cobertura (string):** tipo de cobertura del cargo. Toma los valores Titular/Subrogante/Sin subrogante designado/No corresponde (en el caso de los cargos no habilitados)
 
 - **presidente_camara (string):** describe si el magistrado es presidente de cámara. Toma los valores Sí/No
 
-- **vacante (string):** describe si el cargo está vacante. Toma los valores Sí/No
+- **cargo_vacante (string):** describe si el cargo está vacante. Toma los valores Sí/No
 
-- **licencia (string):** describe si el juez, fiscal o defensor titular está de licencia. Toma los valores Sí/No
+- **cargo_licencia (string):** describe si el juez, fiscal o defensor titular está de licencia. Toma los valores Sí/No
 
 - **concurso_en_tramite (string):** describe si el cargo tiene o no concurso asignado para la cobertura de la vacante
 
-- **numero_concurso (string):** número de concurso asignado a los cargos que se encuentran vacantes
+- **concurso_numero (string):** número de concurso asignado a los cargos que se encuentran vacantes
 
-- **ambito_concurso (int):** ámbito en el que se encuentra tramitando el concurso
+- **concurso_ambito (int):** ámbito en el que se encuentra tramitando el concurso
 
 - **calidad_subrogante (string):** describe la calidad de subrogante. Toma los valores Convocado (si es un juez jubilado)/ juez/a (es juez/a en otro órgano) / fiscal (es fiscal en otro órgano) / defensor/a (es defensor/a en otro órgano) / Sin especificación (es subrogante pero no se especifica su calidad de surogancia)
 
-- **fecha_movimiento (date):** fecha de designación o traslado del juez, fiscal o defensor titular del cargo
+- **norma_fecha (date):** fecha de designación o traslado del juez, fiscal o defensor titular del cargo
 
 - **norma_movimiento (string):** número del decreto o resolución de designación o traslado
 
-- **tipo_movimiento (string):** toma los valores Designación o traslado
+- **norma_tipo (string):** toma los valores Designación o traslado
 
-- **presidente (string):** nombre del Presidente en ejercicio a la fecha de la designación o traslado
+- **norma_presidente (string):** nombre del Presidente en ejercicio a la fecha de la designación o traslado
 
-- **ministro (string):** nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
+- **norma_ministro (string):** nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
