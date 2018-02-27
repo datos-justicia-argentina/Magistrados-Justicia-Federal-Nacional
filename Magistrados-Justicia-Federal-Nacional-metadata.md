@@ -7,13 +7,14 @@ Lo detallado es el resultado del trabajo de la Oficina Decretos, dependiente de 
 
 La actualización de la información relativa a subrogancias, vacancias, estado de tramitación de los concursos en el ámbito del Consejo de la Magistratura y los Ministerios Públicos, se realiza a través de un constante relevamiento telefónico con soporte en las páginas oficiales de los organismos mencionados. 
 
+http://datos.jus.gob.ar/dataset/magistrados-justicia-federal-y-de-la-justicia-nacional
 
 Características
 ---------------
 
 - **Fecha de Primera Publicación:** 14/09/2016
 
-- **Tags o Etiquetas:** judicial, juez, fiscal, defensor, magistrado, vacante, órgano, cargo, subrogante, concurso, federal, nacional, justicia
+- **Tags o Etiquetas:** judiciales, jueces, fiscales, defensores, magistrados, vacantes, órganos, cargos, subrogantes, concursos, federales, nacionales, justicia
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios
 
@@ -32,7 +33,7 @@ Recursos disponibles
 
 - **Nombre:** magistrados-justicia-federal-nacional-AAAA-MM-DD.csv
 
-- **Descripción:** nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional.  No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación
+- **Descripción del contenido:** se detalla la nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional.  No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
