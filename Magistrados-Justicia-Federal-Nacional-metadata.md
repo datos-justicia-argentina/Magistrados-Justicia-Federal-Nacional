@@ -84,3 +84,7 @@ Recursos disponibles
 - **norma_presidente (string):** nombre del Presidente en ejercicio a la fecha de la designación o traslado
 
 - **norma_ministro (string):** nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
+
+Notas
+-----
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
