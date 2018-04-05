@@ -85,6 +85,14 @@ Recursos disponibles
 
 - **norma_ministro (string):** nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
 
+### Magistrados de la Justicia Federal y de la Justicia Nacional - AAAA
+
+- **Nombre:** magistrados-justicia-federal-nacional-AAAA.zip
+
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+- **Formato:** ZIP
+
 Notas
 -----
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
