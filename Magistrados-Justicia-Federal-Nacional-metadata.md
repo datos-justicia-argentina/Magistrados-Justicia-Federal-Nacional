@@ -37,7 +37,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional desde el año 1976 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
