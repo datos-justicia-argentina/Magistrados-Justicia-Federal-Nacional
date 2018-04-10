@@ -57,7 +57,7 @@ Recursos disponibles
 
 - **magistrado_nombre (string):** nombre del juez, fiscal o defensor
 
-- **magistrado_sexo (string):** sexo del magistrado
+- **magistrado_genero (string):** genero del magistrado
 
 - **cargo_cobertura (string):** tipo de cobertura del cargo. Toma los valores Titular/Subrogante/Sin subrogante designado/No corresponde (en el caso de los cargos no habilitados)
 
