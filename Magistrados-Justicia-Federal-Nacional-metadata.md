@@ -85,6 +85,10 @@ Recursos disponibles
 
 - **norma_ministro (string):** nombre del Ministro de Justicia y Derechos Humanos a la fecha de la designación o traslado
 
+- **organo_provincia (string):** provincia en la que se encuentra el órgano
+
+- **organo_provincia_indec_id (string):** código de la provincia en la que se encuentra el órgano, según la codificación de provincia implementada por INDEC (este campo está disponible desde junio de 2018)
+
 ### Magistrados de la Justicia Federal y de la Justicia Nacional - AAAA
 
 - **Nombre:** magistrados-justicia-federal-nacional-AAAA.zip
