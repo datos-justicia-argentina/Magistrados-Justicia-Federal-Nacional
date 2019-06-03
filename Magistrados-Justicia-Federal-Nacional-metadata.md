@@ -29,9 +29,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Magistrados de la Justicia Federal y de la Justicia Nacional - AAAA-MM-DD
+### Magistrados de la Justicia Federal y de la Justicia Nacional - AAAAMMDD
 
-- **Nombre:** magistrados-justicia-federal-nacional-AAAA-MM-DD.csv
+- **Nombre:** magistrados-justicia-federal-nacional-AAAAMMDD.csv
 
 - **Descripción del contenido:** se detalla la nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional.  No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación
 
