@@ -87,7 +87,7 @@ Recursos disponibles
 
 - **organo_provincia (string):** provincia en la que se encuentra ubicado geográficamente el órgano (tener en cuenta que las jurisdicciones federales no coinciden con la división política en provincias de la República)
 
-- **organo_provincia_indec_id (string):** código de la provincia en la que se encuentra ubicado geográficamente el órgano, según la codificación de provincia implementada por INDEC (tener en cuenta que las jurisdicciones federales no coinciden con la división política en provincias de la República)
+- **organo_provincia_id (string):** código de la provincia en la que se encuentra ubicado geográficamente el órgano, según la codificación de provincia implementada por INDEC (tener en cuenta que las jurisdicciones federales no coinciden con la división política en provincias de la República) (hasta 05/2019 nombre campo organo_provincia_indec_id)
 
 ### Magistrados de la Justicia Federal y de la Justicia Nacional - AAAA
 
