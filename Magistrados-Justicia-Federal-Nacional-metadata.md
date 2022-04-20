@@ -14,7 +14,7 @@ Características
 
 - **Fecha de Primera Publicación:** 14/09/2016
 
-- **Tags o Etiquetas:** judiciales, jueces, fiscales, defensores, magistrados, vacantes, órganos, cargos, subrogantes, concursos, federales, nacionales, justicia
+- **Tags o Etiquetas:** judiciales, jueces, fiscales, defensores, magistrados, vacantes, órganos, cargos, subrogantes, concursos, federales, nacionales, justicia, guía judicial
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
 
