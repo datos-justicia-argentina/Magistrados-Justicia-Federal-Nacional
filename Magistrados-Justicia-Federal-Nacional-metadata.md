@@ -3,7 +3,7 @@ Magistrados de la Justicia Federal y de la Justicia Nacional
 
 En este conjunto de datos se detallan la estructura y la nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional de la República Argentina, estado de cobertura de cargos, estado de los concursos destinados a cubrir los cargos que se encuentran vacantes, decretos y/o resoluciones de designación y/o traslado de los jueces, fiscales o defensores y Presidente y Ministro de Justicia y Derechos Humanos en funciones al momento de la designación.
 
-Lo detallado es el resultado del trabajo de la Oficina Decretos, dependiente de la Subsecretaría de Relaciones con el Poder Judicial, la que tiene entre sus funciones llevar a cabo los procedimientos de preselección de magistrados regulados por los Decretos Nº 222/03 y Nº 588/03. Asimismo, interviene en el trámite de aceptación de renuncia de magistrados y traslado de jueces conforme a lo previsto en la Constitución Nacional y reglamentación complementaria. 
+Lo detallado es el resultado del trabajo de la Oficina Decretos, dependiente de la Dirección Nacional de Relaciones con el Poder Judicial, la que tiene entre sus funciones llevar a cabo los procedimientos de preselección de magistrados regulados por los Decretos Nº 222/03 y Nº 588/03. Asimismo, interviene en el trámite de aceptación de renuncia de magistrados y traslado de jueces conforme a lo previsto en la Constitución Nacional y reglamentación complementaria. 
 
 La actualización de la información relativa a subrogancias, vacancias, estado de tramitación de los concursos en el ámbito del Consejo de la Magistratura y los Ministerios Públicos, se realiza a través de un constante relevamiento telefónico con soporte en las páginas oficiales de los organismos mencionados. 
 
@@ -16,11 +16,11 @@ Características
 
 - **Tags o Etiquetas:** judiciales, jueces, fiscales, defensores, magistrados, vacantes, órganos, cargos, subrogantes, concursos, federales, nacionales, justicia, guía judicial
 
-- **Organización:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
+- **Organización:** Ministerio de Justicia. Secretaría de Justicia. Dirección Nacional de Relaciones con el Poder Judicial. Oficina Decretos
 
-- **Autor:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
+- **Autor:** Ministerio de Justicia. Secretaría de Justicia. Dirección Nacional de Relaciones con el Poder Judicial. Oficina Decretos
 
-- **Responsable:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
+- **Responsable:** Ministerio de Justicia. Secretaría de Justicia. Dirección Nacional de Relaciones con el Poder Judicial. Oficina Decretos
 
 - **Grupo:** Poder Judicial
 
