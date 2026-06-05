@@ -29,15 +29,15 @@ Características
 Recursos disponibles
 --------------------
 
-### Magistrados de la Justicia Federal y de la Justicia Nacional - AAAAMMDD
+### Magistrados de la Justicia Federal y de la Justicia Nacional - Jueces - AAAAMMDD
 
 - **Nombre:** magistrados-justicia-federal-nacional-AAAAMMDD.csv
 
-- **Descripción del contenido:** se detalla la nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional.  No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación, de la Procuración General de la Nación ni de la Defensoría General de la Nación
+- **Descripción del contenido:** se detalla la nómina de jueces de la Justicia Federal y de la Justicia Nacional.  No se incluyen los magistrados de la Corte Suprema de Justicia de la Nación
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** nómina de jueces, fiscales y defensores de la Justicia Federal y de la Justicia Nacional desde el año 1976 hasta la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** nómina de jueces de la Justicia Federal y de la Justicia Nacional actualizado a la fecha consignada en el nombre del recurso
 
 ### Campos del recurso
 
@@ -89,11 +89,37 @@ Recursos disponibles
 
 - **organo_provincia_id (string):** código de la provincia en la que se encuentra ubicado geográficamente el órgano, según la codificación de provincia implementada por INDEC (tener en cuenta que las jurisdicciones federales no coinciden con la división política en provincias de la República. Hasta 05/2019 nombre campo organo_provincia_indec_id)
 
+### Magistrados de la Justicia Federal y de la Justicia Nacional - Fiscales - AAAAMMDD
+
+- **Nombre:** magistrados-justicia-federal-nacional-AAAAMMDD.csv
+
+- **Descripción del contenido:** se detalla la nómina de fiscales de la Justicia Federal y de la Justicia Nacional.  No se incluyen los magistrados de la Procuración General de la Nación
+    
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+- **Rango temporal:** nómina de fiscales de la Justicia Federal y de la Justicia Nacional actualizado a la fecha consignada en el nombre del recurso
+
+### Campos del recurso
+- Idem recurso de Jueces
+
+### Magistrados de la Justicia Federal y de la Justicia Nacional - Defensores - AAAAMMDD
+
+- **Nombre:** magistrados-justicia-federal-nacional-AAAAMMDD.csv
+
+- **Descripción del contenido:** se detalla la nómina de defensores de la Justicia Federal y de la Justicia Nacional.  No se incluyen los magistrados de la Defensoría General de la Nación
+
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+- **Rango temporal:** nómina de fiscales de la Justicia Federal y de la Justicia Nacional actualizado a la fecha consignada en el nombre del recurso
+
+### Campos del recurso
+- Idem recurso de Jueces
+  
 ### Magistrados de la Justicia Federal y de la Justicia Nacional - AAAA
 
 - **Nombre:** magistrados-justicia-federal-nacional-AAAA.zip
 
-- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos de jueces, fiscales y defensores publicados en el portal datos.jus.gob.ar durante dicho año
 
 - **Formato:** ZIP
 
